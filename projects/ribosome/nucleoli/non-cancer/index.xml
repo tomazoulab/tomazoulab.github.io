@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Non-cancer</title>
-    <link>http://localhost:1313/nucleoli/non-cancer/index.html</link>
+    <link>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/nucleoli/non-cancer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HEK</title>
-      <link>http://localhost:1313/nucleoli/non-cancer/hek/index.html</link>
+      <link>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/hek/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nucleoli/non-cancer/hek/index.html</guid>
+      <guid>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/hek/index.html</guid>
       <description>Confocal images UBF1 staining NOP58 staining Merged&#xD;STED super-resolution images UBF1 staining NOP58 staining Merged</description>
     </item>
     <item>
       <title>HESC</title>
-      <link>http://localhost:1313/nucleoli/non-cancer/hesc/index.html</link>
+      <link>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/hesc/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nucleoli/non-cancer/hesc/index.html</guid>
+      <guid>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/hesc/index.html</guid>
       <description>Confocal images UBF1 staining NOP58 staining Merged&#xD;STED super-resolution images UBF1 staining NOP58 staining Merged</description>
     </item>
     <item>
       <title>HMSC</title>
-      <link>http://localhost:1313/nucleoli/non-cancer/hmsc/index.html</link>
+      <link>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/hmsc/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nucleoli/non-cancer/hmsc/index.html</guid>
+      <guid>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/hmsc/index.html</guid>
       <description>Confocal images UBF1 staining NOP58 staining Merged&#xD;STED super-resolution images UBF1 staining NOP58 staining Merged</description>
     </item>
     <item>
       <title>IMR90</title>
-      <link>http://localhost:1313/nucleoli/non-cancer/imr90/index.html</link>
+      <link>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/imr90/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nucleoli/non-cancer/imr90/index.html</guid>
+      <guid>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/imr90/index.html</guid>
       <description>Confocal images UBF1 staining NOP58 staining Merged&#xD;STED super-resolution images UBF1 staining NOP58 staining Merged</description>
     </item>
   </channel>

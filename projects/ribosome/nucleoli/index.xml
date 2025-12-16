@@ -6,7 +6,28 @@
     <description>Description here</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 17:55:29 +0100</lastBuildDate>
     <atom:link href="https://tomazoulab.github.io/projects/ribosome/nucleoli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ewing Sarcoma</title>
+      <link>https://tomazoulab.github.io/projects/ribosome/nucleoli/ewing_sarcoma/index.html</link>
+      <pubDate>Mon, 15 Dec 2025 17:55:17 +0100</pubDate>
+      <guid>https://tomazoulab.github.io/projects/ribosome/nucleoli/ewing_sarcoma/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Other Sarcoma</title>
+      <link>https://tomazoulab.github.io/projects/ribosome/nucleoli/other_sarcoma/index.html</link>
+      <pubDate>Mon, 15 Dec 2025 17:55:29 +0100</pubDate>
+      <guid>https://tomazoulab.github.io/projects/ribosome/nucleoli/other_sarcoma/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Non-cancer</title>
+      <link>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/index.html</link>
+      <pubDate>Mon, 15 Dec 2025 17:55:24 +0100</pubDate>
+      <guid>https://tomazoulab.github.io/projects/ribosome/nucleoli/non-cancer/index.html</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
