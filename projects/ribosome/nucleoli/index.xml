@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nucleolus imaging</title>
+    <link>http://localhost:1313/nucleoli/index.html</link>
+    <description>Description here</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Dec 2025 17:55:29 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/nucleoli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ewing Sarcoma</title>
+      <link>http://localhost:1313/nucleoli/ewing_sarcoma/index.html</link>
+      <pubDate>Mon, 15 Dec 2025 17:55:17 +0100</pubDate>
+      <guid>http://localhost:1313/nucleoli/ewing_sarcoma/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Other Sarcoma</title>
+      <link>http://localhost:1313/nucleoli/other_sarcoma/index.html</link>
+      <pubDate>Mon, 15 Dec 2025 17:55:29 +0100</pubDate>
+      <guid>http://localhost:1313/nucleoli/other_sarcoma/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Non-cancer</title>
+      <link>http://localhost:1313/nucleoli/non-cancer/index.html</link>
+      <pubDate>Mon, 15 Dec 2025 17:55:24 +0100</pubDate>
+      <guid>http://localhost:1313/nucleoli/non-cancer/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
