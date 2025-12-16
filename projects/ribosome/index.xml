@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EWSR1::FLI1 Suppresses Ribosome Biogenesis and Creates a Targetable Vulnerability in Ewing Sarcoma.</title>
-    <link>http://localhost:1313/index.html</link>
+    <link>https://tomazoulab.github.io/projects/ribosome/index.html</link>
     <description>&lt;This will be the standard supplementary website with abstract and links&gt;&#xA;Abstract abstract goes here&#xA;Links | Paper | link to paper | GEO submission | GSE…..</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Dec 2025 17:55:29 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomazoulab.github.io/projects/ribosome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nucleolus imaging</title>
-      <link>http://localhost:1313/nucleoli/index.html</link>
+      <link>https://tomazoulab.github.io/projects/ribosome/nucleoli/index.html</link>
       <pubDate>Mon, 15 Dec 2025 17:55:29 +0100</pubDate>
-      <guid>http://localhost:1313/nucleoli/index.html</guid>
+      <guid>https://tomazoulab.github.io/projects/ribosome/nucleoli/index.html</guid>
       <description>Description here</description>
     </item>
     <item>
       <title>Polysome Data Browser</title>
-      <link>http://localhost:1313/polysome/index.html</link>
+      <link>https://tomazoulab.github.io/projects/ribosome/polysome/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/polysome/index.html</guid>
+      <guid>https://tomazoulab.github.io/projects/ribosome/polysome/index.html</guid>
       <description>Description here</description>
     </item>
   </channel>
