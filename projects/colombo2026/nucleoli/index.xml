@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nucleolus imaging</title>
+    <link>https://tomazoulab.github.io/projects/colombo2026/nucleoli/index.html</link>
+    <description>We applied confocal and super-resolution STED microscopy to dissect nucleolar organization and ribosome biogenesis in Ewing sarcoma. Confocal imaging enables quantitative assessment of nucleolar size based on UBF1 and NOP58 as nucleolar markers accross large cell populations. STED microscopy provides nanoscale resolution of sub-nucleolar architecture, allowing us to resolve aberrant clustering of UBF1 and structural disorganization of the nucleolus that are not detectable by conventional microscopy. These imaging approaches are central to linking EWSR1::FLI1-driven nucleolar remodeling to impaired ribosome biogenesis and translational vulnerability in Ewing sarcoma.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Dec 2025 17:55:29 +0100</lastBuildDate>
+    <atom:link href="https://tomazoulab.github.io/projects/colombo2026/nucleoli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ewing Sarcoma</title>
+      <link>https://tomazoulab.github.io/projects/colombo2026/nucleoli/ewing_sarcoma/index.html</link>
+      <pubDate>Mon, 15 Dec 2025 17:55:17 +0100</pubDate>
+      <guid>https://tomazoulab.github.io/projects/colombo2026/nucleoli/ewing_sarcoma/index.html</guid>
+      <description>A673&#xD;CHLA32&#xD;CHLA9&#xD;MHH-ES1&#xD;SKNMC&#xD;TC32&#xD;TC71</description>
+    </item>
+    <item>
+      <title>Other Sarcoma</title>
+      <link>https://tomazoulab.github.io/projects/colombo2026/nucleoli/other_sarcoma/index.html</link>
+      <pubDate>Mon, 15 Dec 2025 17:55:29 +0100</pubDate>
+      <guid>https://tomazoulab.github.io/projects/colombo2026/nucleoli/other_sarcoma/index.html</guid>
+      <description>RD&#xD;RH30&#xD;U2OS</description>
+    </item>
+    <item>
+      <title>Non-cancer</title>
+      <link>https://tomazoulab.github.io/projects/colombo2026/nucleoli/non-cancer/index.html</link>
+      <pubDate>Mon, 15 Dec 2025 17:55:24 +0100</pubDate>
+      <guid>https://tomazoulab.github.io/projects/colombo2026/nucleoli/non-cancer/index.html</guid>
+      <description>HEK&#xD;HESC&#xD;HMSC&#xD;IMR90</description>
+    </item>
+  </channel>
+</rss>

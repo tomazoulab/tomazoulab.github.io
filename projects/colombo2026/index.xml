@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EWSR1::FLI1 Suppresses Ribosome Biogenesis and Creates a Targetable Vulnerability in Ewing Sarcoma.</title>
+    <link>https://tomazoulab.github.io/projects/colombo2026/index.html</link>
+    <description>Abstract Ribosome biogenesis is classically viewed as a hallmark of cancer, yet its role in tumor biology can be context-dependent. In Ewing sarcoma, driven by the EWSR1::FLI1 fusion oncoprotein, non-prominent nucleoli suggest an unexpected repression of ribosome production. Using super-resolution imaging, we reveal profound nucleolar disorganization in Ewing sarcoma cells. This phenotype is driven by EWSR1::FLI1–mediated sequestration of endogenous EWSR1 and the accumulation of R-loops at rDNA loci, leading to transcriptional silencing of rRNA. This results in reduced ribosome biogenesis and protein synthesis, counterbalanced by selective upregulation of 5′TOP mRNA translation. Despite sustaining basal growth, this fragile translational equilibrium renders Ewing sarcoma cells vulnerable to perturbations of ribosome biogenesis. Pharmacologic inhibition of RNA polymerase I with CX-5461 or treatment with etoposide induces rapid translational collapse and apoptosis, the former enhanced by PARP inhibition. Our findings redefine ribosome control in Ewing sarcoma and uncover a unique therapeutic vulnerability arising from suppressed, rather than enhanced, ribosome biogenesis.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Dec 2025 17:55:29 +0100</lastBuildDate>
+    <atom:link href="https://tomazoulab.github.io/projects/colombo2026/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nucleolus imaging</title>
+      <link>https://tomazoulab.github.io/projects/colombo2026/nucleoli/index.html</link>
+      <pubDate>Mon, 15 Dec 2025 17:55:29 +0100</pubDate>
+      <guid>https://tomazoulab.github.io/projects/colombo2026/nucleoli/index.html</guid>
+      <description>We applied confocal and super-resolution STED microscopy to dissect nucleolar organization and ribosome biogenesis in Ewing sarcoma. Confocal imaging enables quantitative assessment of nucleolar size based on UBF1 and NOP58 as nucleolar markers accross large cell populations. STED microscopy provides nanoscale resolution of sub-nucleolar architecture, allowing us to resolve aberrant clustering of UBF1 and structural disorganization of the nucleolus that are not detectable by conventional microscopy. These imaging approaches are central to linking EWSR1::FLI1-driven nucleolar remodeling to impaired ribosome biogenesis and translational vulnerability in Ewing sarcoma.</description>
+    </item>
+    <item>
+      <title>Polysome Data Browser</title>
+      <link>https://tomazoulab.github.io/projects/colombo2026/polysome/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tomazoulab.github.io/projects/colombo2026/polysome/index.html</guid>
+      <description>Description here</description>
+    </item>
+  </channel>
+</rss>
